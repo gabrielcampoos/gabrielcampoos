@@ -9,8 +9,8 @@
   <ul>
     <li>HTML5</li>
     <li>CSS3</li>
-    <li>Javascript</li>
-    <li>Typescript</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
     <li>React.js</li>
     <li>Wordpress</li>
   </ul>
@@ -19,7 +19,7 @@
 <details> <summary> Back-End </summary>
   <ul>
     <li>Node.js</li>
-    <li>Sql</li>
+    <li>SQL</li>
   </ul>
 </details>
 <hr>

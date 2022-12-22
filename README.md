@@ -5,15 +5,23 @@
 - Desenvolvedor Front-End.
 - Estudante de Full Stack Web.
 ## Estudando.
-- HTML5
-- CSS3
-- REACT.JS
-- JAVASCRIPT
-- TYPESCRIPT
-- NODE.JS
-- SQL
-- WORDPRESS
-- GIT
+<details> <summary> Front-End </summary>
+  <ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>Javascript</li>
+    <li>Typescript</li>
+    <li>React.js</li>
+    <li>Wordpress</li>
+  </ul>
+</details>
+<br />
+<details> <summary> Back-End </summary>
+  <ul>
+    <li>Node.js</li>
+    <li>Sql</li>
+  </ul>
+</details>
 <hr>
 <br />
 

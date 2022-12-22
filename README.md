@@ -42,8 +42,12 @@
  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="RGabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
   <hr>
+ <br />
+  <div style="width: 100%;"><a style="margin-left: 30px;" target="_blank" href="https://www.linkedin.com/in/gabriel-campos-859a32223/"><img style="margin-left: 30px;" align="center" alt="Gabriel-linkedin" height="40" width="40" src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png"></a>
+  <a style="margin-left: 30px;" target="_blank" href="https://www.instagram.com/gabrielcampoos/"><img style="margin-left: 30px;" align="center" alt="Gabriel-Instagram" height="40" width="40" src="https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/03/logo-instagram-png-fundo-transparente2.png?resize=696%2C696&ssl=1"></a></div>
+  <br /><br /> <br />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcampoos&label=Profile%20views&color=373aff&style=flat" alt="Gabriel Campos" /> </p>
- <br>   
+ <br>

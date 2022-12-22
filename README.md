@@ -11,7 +11,8 @@
     <li>CSS3</li>
     <li>JavaScript</li>
     <li>TypeScript</li>
-    <li>React.js</li>
+    <li>ReactJS</li>
+    <li>React Native</li>
     <li>Wordpress</li>
   </ul>
 </details>
@@ -20,6 +21,12 @@
   <ul>
     <li>Node.js</li>
     <li>SQL</li>
+  </ul>
+</details>
+<br />
+<details> <summary> Versionador de código </summary>
+  <ul>
+    <li>Git</li>
   </ul>
 </details>
 <hr>
